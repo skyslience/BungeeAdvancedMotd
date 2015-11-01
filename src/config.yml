@@ -1,0 +1,29 @@
+############################################################################
+#################     Configuration of AdvancedMotd	    ####################
+############################################################################
+
+#DO NOT CHANGE CONFIGVERSION!!!!
+ConfigVersion: 1
+
+#Change the player count message
+PlayerCountMessage: '&7>>> &c%online%&7/&c%max_players%'
+#Allow player count message
+PlayerCountMessageEnable: true
+
+#Create a fake player list!
+FakePlayerList:
+  - '&2======================================='
+  - '&aWelcome to &2%server%&a!'
+  - '&7Online: &c%online%&7/&c%max_players%'
+  - '&7Website: &chttps://github.com/w67clement'
+  - '&2======================================='
+
+#Allow fake player list
+FalePlayerListEnable: true
+
+#Allow the plugin to change the motd!
+ChangeMotd: false
+#Motd line 1
+MotdLine1: '&aHello! Welcome on &2%server%&a!'
+#Motd line 2
+MotdLine2: '&aGood Game!'

@@ -1,0 +1,4 @@
+name: BungeeAdvancedMotd
+main: com.w67clement.advancedmotd.bungee.AdvancedMotd
+version: b1.1
+author: w67clement
